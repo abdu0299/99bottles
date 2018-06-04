@@ -4,6 +4,7 @@ GEM
     minitest (5.4.0)
     minitest-color (0.0.2)
       minitest (~> 5)
+    observr (1.0.5)
 
 PLATFORMS
   ruby
@@ -11,6 +12,7 @@ PLATFORMS
 DEPENDENCIES
   minitest (~> 5.4)
   minitest-color
+  observr
 
 BUNDLED WITH
    1.15.4
